@@ -16,8 +16,8 @@ const quotes = [
   {
     quote: 'Would I rather be feared or loved? Easy. Both. I want people to be afriad of how much they love me.',
     source: 'Michael Scott',
-    citation: 'The Office'
-    year: '2005',
+    citation: 'The Office',
+    year: '2005'
   },
   {
 
