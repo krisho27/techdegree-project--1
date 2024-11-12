@@ -19,42 +19,42 @@ const quotes = [
     source: 'Michael Scott',
     citation: 'The Office',
     year: '2005',
-    tag: 'Tv Show'
+    tag: ' Tv Show'
   },
   {
     quote: 'When you are a kid, you assume your parents are soulmates. My kids are gonna be right about that.',
     source: 'Pam Beesly',
     citation: 'The office',
     year: '',
-    tag: 'Tv Show'
+    tag: ' Tv Show'
   },
   {
     quote: 'Welcome to the real world! It sucks. You are gonna love it.',
     source: 'Monica Geller',
     citation: 'Friends',
     year: '',
-    tag: 'Tv Show'
+    tag: ' Tv Show'
   },
   {
     quote: 'I am not great at the advice. Can I interest you in a sarcastic comment?',
     source: 'Chandler Bing',
     citation: 'Friends',
     year: '',
-    tag: 'Tv Show'
+    tag: ' Tv Show'
   },
   {
     quote: 'If eating cake is wrong, I do not want to be right.',
     source: 'Lorelai Gilmore',
     citation: 'Gilmore Girls',
     year: '',
-    tag: 'Tv Show'
+    tag: ' Tv Show'
   },
   {
     quote: 'It is a big, fat, happy sunshine day for me.',
     source: 'Luke Danes',
     citation: 'Gilmore Girls',
     year: '',
-    tag: 'Tv Show'
+    tag: ' Tv Show'
   }
 ];
 
