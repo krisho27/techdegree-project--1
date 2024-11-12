@@ -111,11 +111,11 @@ function printQuote () {
 
 /***
  * `quoteRefresh` function
- * rotates quotes and background every 5 seconds
+ * rotates quotes and background every 7 seconds
  ***/
 
 function quoteRefresh () {
-  return setInterval(printQuote, 5000);
+  return setInterval(printQuote, 7000);
 }
 
 quoteRefresh();
